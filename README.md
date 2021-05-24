@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+#  Welcome to NPL elective course repository
 
-You can use the [editor on GitHub](https://github.com/JoseMauricioGilBello/NLP/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+---
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Image](https://www.blumeglobal.com/wp-content/uploads/2018/11/NLP-image.jpg)
 
-### Markdown
+---
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Hi, in the following repository you will see the projects developed in NPL course for especializacion estrategica de datos in Konrad lorenz university. 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+* Workshop 2: Adquisición de textos Universum melius alumni mei sunt ingeniosi ac dolor. Professionalem in optimis rebus velim. [here](https://github.com/JoseMauricioGilBello/NLP/tree/main/Taller2)
 
-- Bulleted
-- List
+* Workshop 3: Web Scraping Universum melius alumni mei sunt ingeniosi ac dolor. Professionalem in optimis rebus velim. [here](https://github.com/JoseMauricioGilBello/NLP/tree/main/Taller3)
 
-1. Numbered
-2. List
+* Workshop 4: Feature Engineering Universum melius alumni mei sunt ingeniosi ac dolor. Professionalem in optimis rebus velim.  [here](https://github.com/JoseMauricioGilBello/NLP/tree/main/Taller4)
 
-**Bold** and _Italic_ and `Code` text
+* Workshop 5: TF-IDF Universum melius alumni mei sunt ingeniosi ac dolor. Professionalem in optimis rebus velim.  [here](https://github.com/JoseMauricioGilBello/NLP/tree/main/Taller5)
 
-[Link](url) and ![Image](src)
-```
+* Workshop 7: Clasificación de textos Universum melius alumni mei sunt ingeniosi ac dolor. Professionalem in optimis rebus velim.  [here](https://github.com/JoseMauricioGilBello/NLP/tree/main/Taller6)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* Workshop 8: K-Means Universum melius alumni mei sunt ingeniosi ac dolor. Professionalem in optimis rebus velim.  [here](https://github.com/JoseMauricioGilBello/NLP/tree/main/Taller8)
 
-### Jekyll Themes
+* Workshop 9: LDA Universum melius alumni mei sunt ingeniosi ac dolor. Professionalem in optimis rebus velim.  [here](https://github.com/JoseMauricioGilBello/NLP/tree/main/Taller9)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JoseMauricioGilBello/NLP/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* Workshop 10: Nube de palabras Universum melius alumni mei sunt ingeniosi ac dolor. Professionalem in optimis rebus velim.  [here](https://github.com/JoseMauricioGilBello/NLP/tree/main/Taller10)
 
-### Support or Contact
+* Workshop 11: Twitter ** Opcional Se hizo uso de la API de Twitter para adquirir tuits sobre el Día de las Madres 2021 en las diferentes ciudades de Colombia.  [here](https://github.com/JoseMauricioGilBello/NLP/tree/main/Taller11)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* Workshop 12: Nube de palabras Dado un conjunto de datos, se le asignó una puntuación de sentimiento a cada uno de los regístros en el corpus.
+
