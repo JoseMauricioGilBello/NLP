@@ -8,6 +8,7 @@
 
 ### Hi, in the following repository you will see the projects developed in NPL course for especializacion estrategica de datos in Konrad lorenz university. 
 
+ ### Proyectos 
 
 * Workshop 2: Adquisición de textos Universum melius alumni mei sunt ingeniosi ac dolor. Professionalem in optimis rebus velim. [here](https://github.com/JoseMauricioGilBello/NLP/tree/main/Taller2)
 
